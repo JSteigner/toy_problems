@@ -1,2 +1,2 @@
 # toy_problems
-practicing toy problems
+a perosnal repo for practicing and keeping track of toy problems
